@@ -1,4 +1,4 @@
-# Assignments of the master course 3D Data Processing
+# Assignments of the Master's Degree course **3D Data Processing** at Univerity of Padua, Italy
 4 labs assignments and 1 poster presentation:
 - Lab1: Stereo-Matching
 - Lab2: Structure From Motion
