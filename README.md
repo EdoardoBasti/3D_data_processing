@@ -5,3 +5,6 @@
 - Lab3: Cloud Registration
 - Lab4: 3D Descriptors
 - Poster: presentation of the paper "PU-Dense: Sparse Tensor-Based Point Cloud Geometry Upsampling"
+<br/><br/>
+
+For each Lab you can find the description of the assignment, the report of the solution and the scripts on the relative folder.
