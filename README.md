@@ -1,4 +1,4 @@
-# Assignments of the master course 3D_data_processing
+# Assignments of the master course 3D Data Processing
 4 labs assignments and 1 poster presentation:
 - Lab1: Stereo-Matching
 - Lab2: Structure From Motion
